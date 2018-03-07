@@ -1,7 +1,7 @@
 {
   "name": "language-shell-td",
   "main": "./lib/language-shell-td",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/ebport/language-shell-td",
